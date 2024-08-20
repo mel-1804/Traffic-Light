@@ -1,0 +1,30 @@
+.soporte-semaforo{
+  width: 20px;
+  height: 150px;
+  background-color: black;
+}
+
+.cuerpo-semaforo{
+  width: 120px;
+  height: 290px;
+  background-color: black
+  
+}
+.luz-roja{
+  background: red;
+}
+
+.luz-amarilla{
+  background: yellow;
+}
+
+.luz-verde{
+  background: green;
+}
+
+.luz-roja, .luz-amarilla, .luz-verde{
+  border-color: #FFFFFF;
+  width: 90px;
+  height: 90px;
+  margin-top: 4px;
+}
